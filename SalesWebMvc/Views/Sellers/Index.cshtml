@@ -4,11 +4,15 @@
     ViewData["Title"] = "Sellers";
 }
      
-<h1> @ViewData["Title"] </h1>  
+<h2> @ViewData["Title"] </h2>  
+
+<p>
+    <a asp-action="Create" class="btn btn-info">Create New</a> 
+</p>
     
 <table class="table table-striped table-hover">
     <thead>
-        <tr class="btn-outline-info">
+        <tr class="btn-outline-light">
             <th>
                 @Html.DisplayNameFor(model => model.Name)
             </th>
