@@ -23,14 +23,19 @@ Modelo Conceitual
 </div> <br></br>
 
 <h1 align="center">
-Layout web
+Layout Web
 </h1>
 
 ![SalesWebMvc](https://user-images.githubusercontent.com/101528945/194420260-fcc90a67-06da-46ec-bc8e-d28a8eff14b4.png)
+<br></br>
 
 <h1 align="center">
 Video da Aplicação
 </h1>
+
+https://user-images.githubusercontent.com/101528945/194438275-81738183-4541-4737-9a0b-74415d9cf9cc.mp4
+
+<br></br>
 
 <h1 align="center">
 Ferramentas Utilizadas
