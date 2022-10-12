@@ -52,6 +52,7 @@ Ferramentas Utilizadas
 - JavaScript
 ## Implantação do sistema
 - Banco de dados: MySQL Workbench 8.0
+<br></br>
 
 <h1 align="center">
 Como executar o projeto
